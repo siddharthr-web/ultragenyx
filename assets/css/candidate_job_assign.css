@@ -1,0 +1,89 @@
+/* hide default datatable search box */
+	.form-group{
+		padding: 5px;
+	}
+
+	.dataTables_filter {
+		display: none;
+	}
+
+	.tablescroll {
+		overflow: hidden !important;
+	}
+
+	.table-striped{
+		width:100%;
+	}
+
+
+	.td_center{
+		text-align: center;
+	}
+
+	.td_left{
+		text-align: left;
+	}
+
+	.t1{
+		width: 1%;
+	}
+
+	.t2{
+		width: 15%;
+	}
+
+	.t3{
+		width: 15%;
+	}
+
+	.t4{
+		width: 20%;
+	}
+
+	.t5{
+		width: 11%;
+	}
+
+	.t6{
+		width: 12%;
+	}
+
+	.t7{
+		width: 10%;
+	}
+
+	.t8{
+		width: 6%;
+	}
+
+	.t9{
+		width: 8%;
+	}
+
+	.t10{
+		width: 9%;
+	}
+
+	.t11{
+		width: 3%;
+	}
+
+	.bottom_margin{
+		margin-bottom:0;
+	}
+
+	.fixed-table-toolbar{
+		position:relative;
+	}
+
+	.actions{
+		padding: 5px;
+	}
+
+	.assign_btn{
+		margin-left: 3px;
+	}
+
+	.table-bordered{
+		margin-top: 0px;
+	}

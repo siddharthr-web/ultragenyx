@@ -1,0 +1,36 @@
+/* hide default datatable search box */
+	.dataTables_filter {
+		display: none;
+	}
+
+	.tablescroll {
+		overflow: hidden !important;
+	}
+
+	.bottom_margin{
+		margin-bottom:0;
+	}
+
+	.fixed-table-toolbar{
+		position:relative; top:-10px;
+	}
+
+	.search{
+		margin-right:5px;
+	}
+
+	.table-bordered{
+		margin-top: 0px;
+	}
+
+	.td_center{
+		text-align: center;
+	}
+
+	.td_left{
+		text-align: left;
+	}
+
+	.pointer{
+		cursor: pointer;
+	}

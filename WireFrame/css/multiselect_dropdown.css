@@ -1,0 +1,61 @@
+        .multipleSelection { 
+            width: 200px; 
+            background-color: #ffff;
+            position: relative;
+            margin-right: 5px;
+        }
+        .multipleSelection select, .selectpicker select{
+          height:38px;
+          border:1px solid #ced4da;
+          padding-left: 5px;
+        }
+        .selectpicker{
+          width: 100%;
+          position: relative;
+          margin-top: 10px;
+          margin-bottom: 10px;
+        }
+  
+        .selectBox { 
+            position: relative; 
+        } 
+
+        select{
+          color:gray;
+        }
+  
+        .selectBox select { 
+            width: 100%; 
+            font-weight: bold; 
+        } 
+  
+        .overSelect { 
+            position: absolute; 
+            left: 0; 
+            right: 0; 
+            top: 0; 
+            bottom: 0; 
+        } 
+  
+        .checkBoxes { 
+          display: none;
+          border: 1px #8DF5E4 solid;
+          position: absolute;
+          background: #ffff;
+          width: 100%;
+          padding: 7px;
+          z-index: 9;
+          border: 1px solid;
+          color: gray;
+        }
+        .checkBoxes label:last-child{
+          margin-bottom:0px
+        }
+       
+        .checkBoxes label { 
+            display: block; 
+        } 
+  
+        .checkBoxes label:hover { 
+            background-color: #4F615E; 
+        }

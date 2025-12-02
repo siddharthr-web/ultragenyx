@@ -1,0 +1,78 @@
+﻿.requireClass {
+    color: red;
+    font-weight: bold;
+}
+.checkboxTopMargin {
+    margin-top: 39px !important;
+}
+border2{
+	border-bottom: solid 1px #ffffff24;
+}
+/*.switchery-default {
+    background-color: #0069D9 !important;
+    border-color: #0069D9 !important;
+    box-shadow: #0069D9 0px 0px 0px 16px inset !important;
+    transition: border 0.4s ease 0s, box-shadow 0.4s ease 0s, background-color 1.2s ease 0s !important;
+}*/
+.tablescroll
+{	overflow:auto; clear:both; margin-bottom:10px;
+}
+.card-title
+{	margin-top:5px;
+}
+.btn-primary
+{	background:#a31c89;
+	border:1px solid #a31c89;
+}
+.btn-primary:hover{
+	background-color: #58085d;
+    border-color: #58085d;
+}
+.brand-link
+{	background:#fff; text-align:center;
+}
+.brandlogo_icon
+{	display:none;
+}
+.brandlogo
+{	height:55px;
+}
+.brandlogo_icon
+{	height:55px; padding:7px 0; margin:0 auto;
+}
+.btn-sm i
+{	font-size:0.75rem; margin-right:5px;
+}
+.content-header
+{	padding:15px;
+}
+.sidebar-collapse .brandlogo
+{	display:none;
+}
+.sidebar-collapse .brandlogo_icon
+{	display:block;
+}
+.navbar
+{	padding:1.25rem .75rem;
+}
+.card-title{font-weight:700;}
+a
+{	color:#a31c89;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before
+{	background-color:#a31c89;
+	border-color:#a31c89;
+}
+option[value=""][disabled] {
+    display: none;
+}
+select:required:invalid {
+    color: #939ba2;
+}
+.form-group input[type=file]{
+    display: block;
+}
+img#output {
+    width: 100px;
+    margin-top: 10px;
+}

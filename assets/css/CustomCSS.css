@@ -1,0 +1,142 @@
+﻿.requireClass {
+    color: red;
+    font-weight: bold;
+}
+.checkboxTopMargin {
+    margin-top: 39px !important;
+}
+border2{
+  border-bottom: solid 1px #ffffff24;
+}
+/*.switchery-default {
+    background-color: #0069D9 !important;
+    border-color: #0069D9 !important;
+    box-shadow: #0069D9 0px 0px 0px 16px inset !important;
+    transition: border 0.4s ease 0s, box-shadow 0.4s ease 0s, background-color 1.2s ease 0s !important;
+}*/
+.tablescroll
+{ 
+  /*overflow:auto;*/
+ clear:both; margin-bottom:10px;
+}
+.card-title
+{ margin-top:5px;
+}
+.btn-primary
+{ background:#a31c89;
+  border:1px solid #a31c89;
+}
+.btn-primary:hover{
+  background-color: #58085d;
+    border-color: #58085d;
+}
+.brand-link
+{ background:#fff; text-align:center;
+}
+.brandlogo_icon
+{ display:none;
+}
+.brandlogo
+{ height:55px;
+}
+.brandlogo_icon
+{ height:55px; padding:7px 0; margin:0 auto;
+}
+.btn-sm i
+{ font-size:0.75rem; margin-right:5px;
+}
+.content-header
+{ padding:15px;
+}
+.sidebar-collapse .brandlogo
+{ display:none;
+}
+.sidebar-collapse .brandlogo_icon
+{ display:block;
+}
+.navbar
+{ padding:1.25rem .75rem;
+}
+.card-title{font-weight:700;}
+a
+{ color:#a31c89;
+}
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before
+{ background-color:#a31c89;
+  border-color:#a31c89;
+}
+option[value=""][disabled] {
+    display: none;
+}
+select:required:invalid {
+    color: #939ba2;
+}
+.form-group input[type=file]{
+    display: block;
+}
+img#output {
+    width: 100px;
+    margin-top: 10px;
+}
+
+.action_btns {
+  margin-left: 5px !important;
+}
+
+.custom-active{
+  background-color: #6c757d !important;
+}
+
+
+
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: #a31c89 !important;
+    border-color: #a31c89 !important;
+    box-shadow: none,0 0 0 0 rgba(38,143,255,.5);
+}
+
+
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #a31c89 !important;
+    border-color: #a31c89 !important;
+}
+
+
+.btn-primary.disabled, .btn-primary:disabled {
+    color: #fff;
+    background-color: #a31c89 !important;
+    border-color: #a31c89 !important;
+}
+
+.action-btns {
+  color: #a31c89 !important;
+}
+
+.password-wrapper {
+  position: relative; 
+}
+.password-wrapper #togglePassword {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 40px;
+  height: 100%;
+  background: transparent;
+  border: 0;
+  outline: none;
+}
+.password-wrapper #togglePassword:focus {
+  background: transparent;
+  border: 0;
+  outline: none;
+}
+.password-wrapper #togglePassword i, .password-wrapper #togglePassword:focus i, .password-wrapper #togglePassword:hover i {
+  color: gray;
+}
+.password-wrapper input {
+  padding-right: 50px;
+}
+  
